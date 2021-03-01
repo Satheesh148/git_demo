@@ -1,6 +1,8 @@
 Hi this is a readme file
-<<<<<<< HEAD
 thissssss is second change
+<<<<<<< HEAD
+
+this is local change
 =======
-thisss is second change
->>>>>>> very-bad
+this is third change
+>>>>>>> d9d06889a8d687a07d59c3d5da4d14b4443423d0
